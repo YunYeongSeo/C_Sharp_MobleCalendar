@@ -43,4 +43,4 @@
 ## ★ 실행화면
 - 이미지 클릭 시 시연영상이 재생됩니다.
 
-[![실행화면](images/대쉬보드.png)](https://youtu.be/YvxRPkcUMLk?si=jbuBeMgTIHOcnflx)
+[![실행화면](images/123.PNG)](https://youtu.be/sHx8aYx18XY?si=O_vKtv4DHXr19nMm)
