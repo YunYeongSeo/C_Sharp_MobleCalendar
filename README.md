@@ -1,4 +1,5 @@
 # C# WinForms 기반 MDI 일정 관리 프로그램
+- GitHub를 사용하여 팀원들과 프로그램을 만들며 형상관리에 활용함.
 - 시연영상 : https://youtu.be/sHx8aYx18XY?si=O_vKtv4DHXr19nMm
 
 ## ★ 프로젝트 소개
