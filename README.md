@@ -1,3 +1,9 @@
+# Team Project (팀 프로젝트)
+본 저장소는 팀 프로젝트로 진행된 
+'C# WinForms 기반 MDI 일정 관리 프로그램'의 개인 Fork 저장소입니다.
+
+- 원본 저장소 : https://github.com/Cheon-Jaemin/C_Sharp_MobleCalendar
+
 # C# WinForms 기반 MDI 일정 관리 프로그램
 - GitHub를 사용하여 팀원들과 프로그램을 만들며 형상관리에 활용함.
 - 시연영상 : https://youtu.be/sHx8aYx18XY?si=O_vKtv4DHXr19nMm
@@ -33,6 +39,12 @@
 ### 캘린더 기반 일정 관리 기능 구현
 - 등록된 일정을 캘린더 UI에 반영하여 사용자가 직관적으로 일정 확인 가능하도록 구현
 - 일정 추가·삭제·조회가 가능한 기본 일정 관리 흐름 설계
+
+## 👨‍💻 개발자
+
+**YunYeongSeo**
+- GitHub: [@YunYeongSeo](https://github.com/YunYeongSeo)
+- Email: yuss1103@naver.com
 
 ## ★ 실행화면
 - 이미지 클릭 시 시연영상이 재생됩니다.
